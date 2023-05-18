@@ -4,4 +4,5 @@
 <img width="1440" alt="Screenshot 2023-05-17 at 4 52 02 PM" src="https://github.com/cisuarez/Taller01-Snake/assets/84451817/7c8ca24f-fd21-4512-909e-97dfb6670146">
 ![Captura de pantalla (1)](https://github.com/cisuarez/Taller01-Snake/assets/89329395/28766e9a-2614-44c1-9846-c5fbb3f4c188)
 ##conflico Integrante 2
-
+![Captura de pantalla 2023-05-17 165731](https://github.com/cisuarez/Taller01-Snake/assets/96491039/892945a4-307d-4fbb-b3b7-866559a8e32d)
+##conflicto integrante 3
